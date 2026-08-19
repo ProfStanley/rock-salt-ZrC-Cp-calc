@@ -1,0 +1,456 @@
+Neighbors of:     1 C at:   0.1439 -0.0082 -0.0535
+   32 Zr                    2.2361  Ang. Really at:   4.3683  0.0718  0.0077
+   13 Zr                    2.3248  Ang. Really at:  -0.0547  0.0615  4.3347
+   16 Zr                    2.3416  Ang. Really at:  -0.1104  4.4094 -0.0254
+   14 Zr                    2.3484  Ang. Really at:  -0.1619 -4.4350 -0.1111
+    5 Zr                    2.4442  Ang. Really at:  -0.3064 -0.2053 -4.6462
+   64 Zr                    2.5378  Ang. Really at:  -4.6486 -0.0955  0.0975
+Neighbors of:     2 C at:  -0.0491 13.3350 13.4066
+    5 Zr                    2.2594  Ang. Really at:  -0.3064 17.5889 13.1480
+   14 Zr                    2.2638  Ang. Really at:  -0.1619 13.3592 17.6831
+   49 Zr                    2.3698  Ang. Really at:  -4.5249 13.2619 13.2752
+   17 Zr                    2.3838  Ang. Really at:   4.4539 13.3596 13.2869
+    3 Zr                    2.3846  Ang. Really at:   0.0255  8.8319 13.2549
+    6 Zr                    2.4029  Ang. Really at:   0.0089 13.4226  8.8670
+Neighbors of:     3 Zr at:   0.0255  8.8319 13.2549
+    7 C                     2.2689  Ang. Really at:  -0.1635  8.8397  8.9714
+   18 C                     2.3267  Ang. Really at:   4.4221  8.8505 13.2938
+    4 C                     2.3494  Ang. Really at:   0.1495  4.3941 13.2973
+   50 C                     2.3541  Ang. Really at:  -4.4217  8.9193 13.3159
+    2 C                     2.3846  Ang. Really at:  -0.0491 13.3350 13.4066
+   15 C                     2.3990  Ang. Really at:   0.0246  8.8738 17.7882
+    8 Zr                    3.1210  Ang. Really at:   0.0280  4.6702  9.0759
+Neighbors of:     4 C at:   0.1495  4.3941 13.2973
+    8 Zr                    2.2396  Ang. Really at:   0.0280  4.6702  9.0759
+   19 Zr                    2.2926  Ang. Really at:   4.4680  4.5913 13.5830
+    3 Zr                    2.3494  Ang. Really at:   0.0255  8.8319 13.2549
+   16 Zr                    2.3702  Ang. Really at:  -0.1104  4.4094 17.7688
+    5 Zr                    2.4471  Ang. Really at:  -0.3064 -0.2053 13.1480
+   51 Zr                    2.4996  Ang. Really at:  -4.5733  4.3680 13.3810
+Neighbors of:     5 Zr at:  -0.3064 -0.2053 13.1480
+   52 C                     2.1926  Ang. Really at:  -4.4435 -0.0256 13.2934
+    2 C                     2.2594  Ang. Really at:  -0.0491 -4.4592 13.4066
+    9 C                     2.2922  Ang. Really at:  -0.1321 -0.4871  8.8290
+    1 C                     2.4442  Ang. Really at:   0.1439 -0.0082 17.7407
+    4 C                     2.4471  Ang. Really at:   0.1495  4.3941 13.2973
+   20 C                     2.5511  Ang. Really at:   4.5132 -0.3032 13.1863
+    6 Zr                    3.1656  Ang. Really at:   0.0089 -4.3716  8.8670
+Neighbors of:     6 Zr at:   0.0089 13.4226  8.8670
+    9 C                     2.0570  Ang. Really at:  -0.1321 17.3071  8.8290
+   10 C                     2.2833  Ang. Really at:  -0.0648 13.2900  4.5548
+   21 C                     2.3294  Ang. Really at:   4.4001 13.1339  8.9699
+   53 C                     2.3986  Ang. Really at:  -4.5220 13.2976  8.8642
+    2 C                     2.4029  Ang. Really at:  -0.0491 13.3350 13.4066
+    7 C                     2.4275  Ang. Really at:  -0.1635  8.8397  8.9714
+    5 Zr                    3.1656  Ang. Really at:  -0.3064 17.5889 13.1480
+Neighbors of:     7 C at:  -0.1635  8.8397  8.9714
+    8 Zr                    2.2094  Ang. Really at:   0.0280  4.6702  9.0759
+   54 Zr                    2.2625  Ang. Really at:  -4.4385  8.8878  8.9323
+    3 Zr                    2.2689  Ang. Really at:   0.0255  8.8319 13.2549
+   11 Zr                    2.4118  Ang. Really at:   0.0554  8.9506  4.4204
+    6 Zr                    2.4275  Ang. Really at:   0.0089 13.4226  8.8670
+   22 Zr                    2.4811  Ang. Really at:   4.5213  9.0075  8.8840
+Neighbors of:     8 Zr at:   0.0280  4.6702  9.0759
+    7 C                     2.2094  Ang. Really at:  -0.1635  8.8397  8.9714
+    4 C                     2.2396  Ang. Really at:   0.1495  4.3941 13.2973
+   23 C                     2.3465  Ang. Really at:   4.4133  4.0174  8.9989
+   55 C                     2.3870  Ang. Really at:  -4.4686  4.4187  8.8249
+   12 C                     2.4257  Ang. Really at:   0.0104  4.3986  4.5000
+    9 C                     2.7336  Ang. Really at:  -0.1321 -0.4871  8.8290
+    3 Zr                    3.1210  Ang. Really at:   0.0255  8.8319 13.2549
+Neighbors of:     9 C at:  -0.1321 -0.4871  8.8290
+    6 Zr                    2.0570  Ang. Really at:   0.0089 -4.3716  8.8670
+    5 Zr                    2.2922  Ang. Really at:  -0.3064 -0.2053 13.1480
+   56 Zr                    2.3451  Ang. Really at:  -4.5353  0.0125  8.8727
+   24 Zr                    2.3877  Ang. Really at:   4.2977  0.3475  9.0263
+   13 Zr                    2.3963  Ang. Really at:  -0.0547  0.0615  4.3347
+    8 Zr                    2.7336  Ang. Really at:   0.0280  4.6702  9.0759
+   10 C                     3.1042  Ang. Really at:  -0.0648 -4.5042  4.5548
+   53 C                     3.1462  Ang. Really at:  -4.5220 -4.4966  8.8642
+Neighbors of:    10 C at:  -0.0648 13.2900  4.5548
+    6 Zr                    2.2833  Ang. Really at:   0.0089 13.4226  8.8670
+   11 Zr                    2.2983  Ang. Really at:   0.0554  8.9506  4.4204
+   57 Zr                    2.3175  Ang. Really at:  -4.4394 13.3864  4.3750
+   25 Zr                    2.3692  Ang. Really at:   4.4046 13.4898  4.3833
+   13 Zr                    2.4189  Ang. Really at:  -0.0547 17.8557  4.3347
+   14 Zr                    2.4699  Ang. Really at:  -0.1619 13.3592 -0.1111
+    9 C                     3.1042  Ang. Really at:  -0.1321 17.3071  8.8290
+Neighbors of:    11 Zr at:   0.0554  8.9506  4.4204
+   26 C                     2.2491  Ang. Really at:   4.3032  8.8093  4.4349
+   10 C                     2.2983  Ang. Really at:  -0.0648 13.2900  4.5548
+   15 C                     2.3428  Ang. Really at:   0.0246  8.8738 -0.0060
+   12 C                     2.4093  Ang. Really at:   0.0104  4.3986  4.5000
+    7 C                     2.4118  Ang. Really at:  -0.1635  8.8397  8.9714
+   58 C                     2.4571  Ang. Really at:  -4.5876  8.9739  4.3752
+Neighbors of:    12 C at:   0.0104  4.3986  4.5000
+   13 Zr                    2.2970  Ang. Really at:  -0.0547  0.0615  4.3347
+   59 Zr                    2.3673  Ang. Really at:  -4.4631  4.4089  4.4863
+   27 Zr                    2.3739  Ang. Really at:   4.4956  4.4801  4.5156
+   16 Zr                    2.3956  Ang. Really at:  -0.1104  4.4094 -0.0254
+   11 Zr                    2.4093  Ang. Really at:   0.0554  8.9506  4.4204
+    8 Zr                    2.4257  Ang. Really at:   0.0280  4.6702  9.0759
+Neighbors of:    13 Zr at:  -0.0547  0.0615  4.3347
+   12 C                     2.2970  Ang. Really at:   0.0104  4.3986  4.5000
+   60 C                     2.2975  Ang. Really at:  -4.3962  0.0290  4.3643
+    1 C                     2.3248  Ang. Really at:   0.1439 -0.0082 -0.0535
+    9 C                     2.3963  Ang. Really at:  -0.1321 -0.4871  8.8290
+   10 C                     2.4189  Ang. Really at:  -0.0648 -4.5042  4.5548
+   28 C                     2.4432  Ang. Really at:   4.5570 -0.1229  4.4541
+Neighbors of:    14 Zr at:  -0.1619 13.3592 -0.1111
+    2 C                     2.2638  Ang. Really at:  -0.0491 13.3350 -4.3876
+   61 C                     2.2863  Ang. Really at:  -4.4819 13.4015 -0.0567
+    1 C                     2.3484  Ang. Really at:   0.1439 17.7861 -0.0535
+   15 C                     2.3763  Ang. Really at:   0.0246  8.8738 -0.0060
+   29 C                     2.4117  Ang. Really at:   4.3950 13.3985 -0.0465
+   10 C                     2.4699  Ang. Really at:  -0.0648 13.2900  4.5548
+Neighbors of:    15 C at:   0.0246  8.8738 -0.0060
+   30 Zr                    2.3312  Ang. Really at:   4.4281  8.9436  0.0970
+   11 Zr                    2.3428  Ang. Really at:   0.0554  8.9506  4.4204
+   62 Zr                    2.3576  Ang. Really at:  -4.4301  8.8052  0.0093
+   16 Zr                    2.3636  Ang. Really at:  -0.1104  4.4094 -0.0254
+   14 Zr                    2.3763  Ang. Really at:  -0.1619 13.3592 -0.1111
+    3 Zr                    2.3990  Ang. Really at:   0.0255  8.8319 -4.5393
+Neighbors of:    16 Zr at:  -0.1104  4.4094 -0.0254
+   63 C                     2.3043  Ang. Really at:  -4.4643  4.4532  0.0330
+    1 C                     2.3416  Ang. Really at:   0.1439 -0.0082 -0.0535
+   15 C                     2.3636  Ang. Really at:   0.0246  8.8738 -0.0060
+    4 C                     2.3702  Ang. Really at:   0.1495  4.3941 -4.4969
+   31 C                     2.3895  Ang. Really at:   4.4033  4.5257  0.0300
+   12 C                     2.3956  Ang. Really at:   0.0104  4.3986  4.5000
+Neighbors of:    17 Zr at:   4.4539 13.3596 13.2869
+   20 C                     2.1871  Ang. Really at:   4.5132 17.4911 13.1863
+   21 C                     2.2877  Ang. Really at:   4.4001 13.1339  8.9699
+   29 C                     2.3609  Ang. Really at:   4.3950 13.3985 17.7477
+   33 C                     2.3792  Ang. Really at:   8.9486 13.3785 13.3980
+    2 C                     2.3838  Ang. Really at:  -0.0491 13.3350 13.4066
+   18 C                     2.3862  Ang. Really at:   4.4221  8.8505 13.2938
+Neighbors of:    18 C at:   4.4221  8.8505 13.2938
+   19 Zr                    2.2592  Ang. Really at:   4.4680  4.5913 13.5830
+    3 Zr                    2.3267  Ang. Really at:   0.0255  8.8319 13.2549
+   22 Zr                    2.3356  Ang. Really at:   4.5213  9.0075  8.8840
+   17 Zr                    2.3862  Ang. Really at:   4.4539 13.3596 13.2869
+   34 Zr                    2.3875  Ang. Really at:   8.9307  8.9303 13.4420
+   30 Zr                    2.4334  Ang. Really at:   4.4281  8.9436 17.8912
+Neighbors of:    19 Zr at:   4.4680  4.5913 13.5830
+   31 C                     2.2449  Ang. Really at:   4.4033  4.5257 17.8242
+   18 C                     2.2592  Ang. Really at:   4.4221  8.8505 13.2938
+    4 C                     2.2926  Ang. Really at:   0.1495  4.3941 13.2973
+   35 C                     2.3975  Ang. Really at:   8.9804  4.4866 13.1919
+   23 C                     2.4449  Ang. Really at:   4.4133  4.0174  8.9989
+   20 C                     2.5986  Ang. Really at:   4.5132 -0.3032 13.1863
+Neighbors of:    20 C at:   4.5132 -0.3032 13.1863
+   17 Zr                    2.1871  Ang. Really at:   4.4539 -4.4346 13.2869
+   24 Zr                    2.2310  Ang. Really at:   4.2977  0.3475  9.0263
+   36 Zr                    2.2781  Ang. Really at:   8.8092 -0.0664 13.3318
+   32 Zr                    2.4517  Ang. Really at:   4.3683  0.0718 17.8019
+    5 Zr                    2.5511  Ang. Really at:  -0.3064 -0.2053 13.1480
+   19 Zr                    2.5986  Ang. Really at:   4.4680  4.5913 13.5830
+Neighbors of:    21 C at:   4.4001 13.1339  8.9699
+   22 Zr                    2.1850  Ang. Really at:   4.5213  9.0075  8.8840
+   17 Zr                    2.2877  Ang. Really at:   4.4539 13.3596 13.2869
+    6 Zr                    2.3294  Ang. Really at:   0.0089 13.4226  8.8670
+   37 Zr                    2.3670  Ang. Really at:   8.8613 13.4591  8.9488
+   25 Zr                    2.4344  Ang. Really at:   4.4046 13.4898  4.3833
+   24 Zr                    2.6507  Ang. Really at:   4.2977 18.1417  9.0263
+Neighbors of:    22 Zr at:   4.5213  9.0075  8.8840
+   21 C                     2.1850  Ang. Really at:   4.4001 13.1339  8.9699
+   38 C                     2.2766  Ang. Really at:   8.8199  8.8414  8.9355
+   18 C                     2.3356  Ang. Really at:   4.4221  8.8505 13.2938
+   26 C                     2.3595  Ang. Really at:   4.3032  8.8093  4.4349
+    7 C                     2.4811  Ang. Really at:  -0.1635  8.8397  8.9714
+   23 C                     2.6419  Ang. Really at:   4.4133  4.0174  8.9989
+Neighbors of:    23 C at:   4.4133  4.0174  8.9989
+   24 Zr                    1.9431  Ang. Really at:   4.2977  0.3475  9.0263
+    8 Zr                    2.3465  Ang. Really at:   0.0280  4.6702  9.0759
+   27 Zr                    2.3855  Ang. Really at:   4.4956  4.4801  4.5156
+   39 Zr                    2.3928  Ang. Really at:   8.9073  4.5172  8.9737
+   19 Zr                    2.4449  Ang. Really at:   4.4680  4.5913 13.5830
+   22 Zr                    2.6419  Ang. Really at:   4.5213  9.0075  8.8840
+Neighbors of:    24 Zr at:   4.2977  0.3475  9.0263
+   23 C                     1.9431  Ang. Really at:   4.4133  4.0174  8.9989
+   20 C                     2.2310  Ang. Really at:   4.5132 -0.3032 13.1863
+    9 C                     2.3877  Ang. Really at:  -0.1321 -0.4871  8.8290
+   40 C                     2.4312  Ang. Really at:   8.8660 -0.1124  8.8621
+   28 C                     2.4361  Ang. Really at:   4.5570 -0.1229  4.4541
+   21 C                     2.6507  Ang. Really at:   4.4001 -4.6603  8.9699
+Neighbors of:    25 Zr at:   4.4046 13.4898  4.3833
+   28 C                     2.2146  Ang. Really at:   4.5570 17.6713  4.4541
+   41 C                     2.3374  Ang. Really at:   8.8172 13.2991  4.4358
+   29 C                     2.3447  Ang. Really at:   4.3950 13.3985 -0.0465
+   10 C                     2.3692  Ang. Really at:  -0.0648 13.2900  4.5548
+   21 C                     2.4344  Ang. Really at:   4.4001 13.1339  8.9699
+   26 C                     2.4775  Ang. Really at:   4.3032  8.8093  4.4349
+Neighbors of:    26 C at:   4.3032  8.8093  4.4349
+   11 Zr                    2.2491  Ang. Really at:   0.0554  8.9506  4.4204
+   27 Zr                    2.2936  Ang. Really at:   4.4956  4.4801  4.5156
+   30 Zr                    2.2976  Ang. Really at:   4.4281  8.9436  0.0970
+   22 Zr                    2.3595  Ang. Really at:   4.5213  9.0075  8.8840
+   25 Zr                    2.4775  Ang. Really at:   4.4046 13.4898  4.3833
+   42 Zr                    2.4803  Ang. Really at:   8.9892  8.9115  4.4462
+Neighbors of:    27 Zr at:   4.4956  4.4801  4.5156
+   26 C                     2.2936  Ang. Really at:   4.3032  8.8093  4.4349
+   43 C                     2.2962  Ang. Really at:   8.8261  4.4198  4.2480
+   12 C                     2.3739  Ang. Really at:   0.0104  4.3986  4.5000
+   31 C                     2.3743  Ang. Really at:   4.4033  4.5257  0.0300
+   23 C                     2.3855  Ang. Really at:   4.4133  4.0174  8.9989
+   28 C                     2.4362  Ang. Really at:   4.5570 -0.1229  4.4541
+Neighbors of:    28 C at:   4.5570 -0.1229  4.4541
+   25 Zr                    2.2146  Ang. Really at:   4.4046 -4.3045  4.3833
+   44 Zr                    2.3029  Ang. Really at:   8.9058  0.0282  4.5179
+   32 Zr                    2.3573  Ang. Really at:   4.3683  0.0718  0.0077
+   24 Zr                    2.4361  Ang. Really at:   4.2977  0.3475  9.0263
+   27 Zr                    2.4362  Ang. Really at:   4.4956  4.4801  4.5156
+   13 Zr                    2.4432  Ang. Really at:  -0.0547  0.0615  4.3347
+Neighbors of:    29 C at:   4.3950 13.3985 -0.0465
+   25 Zr                    2.3447  Ang. Really at:   4.4046 13.4898  4.3833
+   30 Zr                    2.3587  Ang. Really at:   4.4281  8.9436  0.0970
+   17 Zr                    2.3609  Ang. Really at:   4.4539 13.3596 -4.5073
+   32 Zr                    2.3643  Ang. Really at:   4.3683 17.8660  0.0077
+   45 Zr                    2.3775  Ang. Really at:   8.8874 13.3395 -0.0172
+   14 Zr                    2.4117  Ang. Really at:  -0.1619 13.3592 -0.1111
+Neighbors of:    30 Zr at:   4.4281  8.9436  0.0970
+   26 C                     2.2976  Ang. Really at:   4.3032  8.8093  4.4349
+   15 C                     2.3312  Ang. Really at:   0.0246  8.8738 -0.0060
+   31 C                     2.3382  Ang. Really at:   4.4033  4.5257  0.0300
+   29 C                     2.3587  Ang. Really at:   4.3950 13.3985 -0.0465
+   46 C                     2.3783  Ang. Really at:   8.9221  8.9385  0.0325
+   18 C                     2.4334  Ang. Really at:   4.4221  8.8505 -4.5004
+Neighbors of:    31 C at:   4.4033  4.5257  0.0300
+   19 Zr                    2.2449  Ang. Really at:   4.4680  4.5913 -4.2112
+   30 Zr                    2.3382  Ang. Really at:   4.4281  8.9436  0.0970
+   32 Zr                    2.3570  Ang. Really at:   4.3683  0.0718  0.0077
+   47 Zr                    2.3593  Ang. Really at:   8.8597  4.4387  0.1378
+   27 Zr                    2.3743  Ang. Really at:   4.4956  4.4801  4.5156
+   16 Zr                    2.3895  Ang. Really at:  -0.1104  4.4094 -0.0254
+Neighbors of:    32 Zr at:   4.3683  0.0718  0.0077
+    1 C                     2.2361  Ang. Really at:   0.1439 -0.0082 -0.0535
+   31 C                     2.3570  Ang. Really at:   4.4033  4.5257  0.0300
+   28 C                     2.3573  Ang. Really at:   4.5570 -0.1229  4.4541
+   29 C                     2.3643  Ang. Really at:   4.3950 -4.3957 -0.0465
+   48 C                     2.4285  Ang. Really at:   8.9574  0.0703  0.0113
+   20 C                     2.4517  Ang. Really at:   4.5132 -0.3032 -4.6079
+Neighbors of:    33 C at:   8.9486 13.3785 13.3980
+   49 Zr                    2.2882  Ang. Really at:  13.2693 13.2619 13.2752
+   36 Zr                    2.3030  Ang. Really at:   8.8092 17.7278 13.3318
+   45 Zr                    2.3176  Ang. Really at:   8.8874 13.3395 17.7770
+   34 Zr                    2.3540  Ang. Really at:   8.9307  8.9303 13.4420
+   37 Zr                    2.3553  Ang. Really at:   8.8613 13.4591  8.9488
+   17 Zr                    2.3792  Ang. Really at:   4.4539 13.3596 13.2869
+Neighbors of:    34 Zr at:   8.9307  8.9303 13.4420
+   46 C                     2.3203  Ang. Really at:   8.9221  8.9385 17.8267
+   50 C                     2.3514  Ang. Really at:  13.3725  8.9193 13.3159
+   33 C                     2.3540  Ang. Really at:   8.9486 13.3785 13.3980
+   35 C                     2.3554  Ang. Really at:   8.9804  4.4866 13.1919
+   38 C                     2.3859  Ang. Really at:   8.8199  8.8414  8.9355
+   18 C                     2.3875  Ang. Really at:   4.4221  8.8505 13.2938
+Neighbors of:    35 C at:   8.9804  4.4866 13.1919
+   39 Zr                    2.2325  Ang. Really at:   8.9073  4.5172  8.9737
+   51 Zr                    2.2471  Ang. Really at:  13.2210  4.3680 13.3810
+   34 Zr                    2.3554  Ang. Really at:   8.9307  8.9303 13.4420
+   19 Zr                    2.3975  Ang. Really at:   4.4680  4.5913 13.5830
+   36 Zr                    2.4122  Ang. Really at:   8.8092 -0.0664 13.3318
+   47 Zr                    2.5093  Ang. Really at:   8.8597  4.4387 17.9320
+Neighbors of:    36 Zr at:   8.8092 -0.0664 13.3318
+   20 C                     2.2781  Ang. Really at:   4.5132 -0.3032 13.1863
+   33 C                     2.3030  Ang. Really at:   8.9486 -4.4157 13.3980
+   40 C                     2.3656  Ang. Really at:   8.8660 -0.1124  8.8621
+   48 C                     2.3698  Ang. Really at:   8.9574  0.0703 17.8055
+   52 C                     2.4035  Ang. Really at:  13.3508 -0.0256 13.2934
+   35 C                     2.4122  Ang. Really at:   8.9804  4.4866 13.1919
+Neighbors of:    37 Zr at:   8.8613 13.4591  8.9488
+   40 C                     2.2350  Ang. Really at:   8.8660 17.6818  8.8621
+   53 C                     2.3361  Ang. Really at:  13.2722 13.2976  8.8642
+   33 C                     2.3553  Ang. Really at:   8.9486 13.3785 13.3980
+   21 C                     2.3670  Ang. Really at:   4.4001 13.1339  8.9699
+   41 C                     2.3898  Ang. Really at:   8.8172 13.2991  4.4358
+   38 C                     2.4437  Ang. Really at:   8.8199  8.8414  8.9355
+Neighbors of:    38 C at:   8.8199  8.8414  8.9355
+   22 Zr                    2.2766  Ang. Really at:   4.5213  9.0075  8.8840
+   39 Zr                    2.2889  Ang. Really at:   8.9073  4.5172  8.9737
+   42 Zr                    2.3776  Ang. Really at:   8.9892  8.9115  4.4462
+   34 Zr                    2.3859  Ang. Really at:   8.9307  8.9303 13.4420
+   54 Zr                    2.4004  Ang. Really at:  13.3557  8.8878  8.9323
+   37 Zr                    2.4437  Ang. Really at:   8.8613 13.4591  8.9488
+Neighbors of:    39 Zr at:   8.9073  4.5172  8.9737
+   35 C                     2.2325  Ang. Really at:   8.9804  4.4866 13.1919
+   38 C                     2.2889  Ang. Really at:   8.8199  8.8414  8.9355
+   55 C                     2.3400  Ang. Really at:  13.3256  4.4187  8.8249
+   23 C                     2.3928  Ang. Really at:   4.4133  4.0174  8.9989
+   40 C                     2.4507  Ang. Really at:   8.8660 -0.1124  8.8621
+   43 C                     2.5017  Ang. Really at:   8.8261  4.4198  4.2480
+Neighbors of:    40 C at:   8.8660 -0.1124  8.8621
+   37 Zr                    2.2350  Ang. Really at:   8.8613 -4.3351  8.9488
+   44 Zr                    2.3002  Ang. Really at:   8.9058  0.0282  4.5179
+   56 Zr                    2.3256  Ang. Really at:  13.2589  0.0125  8.8727
+   36 Zr                    2.3656  Ang. Really at:   8.8092 -0.0664 13.3318
+   24 Zr                    2.4312  Ang. Really at:   4.2977  0.3475  9.0263
+   39 Zr                    2.4507  Ang. Really at:   8.9073  4.5172  8.9737
+Neighbors of:    41 C at:   8.8172 13.2991  4.4358
+   42 Zr                    2.3236  Ang. Really at:   8.9892  8.9115  4.4462
+   25 Zr                    2.3374  Ang. Really at:   4.4046 13.4898  4.3833
+   45 Zr                    2.3568  Ang. Really at:   8.8874 13.3395 -0.0172
+   37 Zr                    2.3898  Ang. Really at:   8.8613 13.4591  8.9488
+   44 Zr                    2.3945  Ang. Really at:   8.9058 17.8224  4.5179
+   57 Zr                    2.4019  Ang. Really at:  13.3548 13.3864  4.3750
+Neighbors of:    42 Zr at:   8.9892  8.9115  4.4462
+   58 C                     2.2323  Ang. Really at:  13.2066  8.9739  4.3752
+   41 C                     2.3236  Ang. Really at:   8.8172 13.2991  4.4358
+   46 C                     2.3359  Ang. Really at:   8.9221  8.9385  0.0325
+   38 C                     2.3776  Ang. Really at:   8.8199  8.8414  8.9355
+   43 C                     2.3807  Ang. Really at:   8.8261  4.4198  4.2480
+   26 C                     2.4803  Ang. Really at:   4.3032  8.8093  4.4349
+Neighbors of:    43 C at:   8.8261  4.4198  4.2480
+   47 Zr                    2.1751  Ang. Really at:   8.8597  4.4387  0.1378
+   27 Zr                    2.2962  Ang. Really at:   4.4956  4.4801  4.5156
+   44 Zr                    2.3287  Ang. Really at:   8.9058  0.0282  4.5179
+   42 Zr                    2.3807  Ang. Really at:   8.9892  8.9115  4.4462
+   59 Zr                    2.3873  Ang. Really at:  13.3312  4.4089  4.4863
+   39 Zr                    2.5017  Ang. Really at:   8.9073  4.5172  8.9737
+Neighbors of:    44 Zr at:   8.9058  0.0282  4.5179
+   40 C                     2.3002  Ang. Really at:   8.8660 -0.1124  8.8621
+   28 C                     2.3029  Ang. Really at:   4.5570 -0.1229  4.4541
+   43 C                     2.3287  Ang. Really at:   8.8261  4.4198  4.2480
+   60 C                     2.3786  Ang. Really at:  13.3980  0.0290  4.3643
+   48 C                     2.3850  Ang. Really at:   8.9574  0.0703  0.0113
+   41 C                     2.3945  Ang. Really at:   8.8172 -4.4951  4.4358
+Neighbors of:    45 Zr at:   8.8874 13.3395 -0.0172
+   33 C                     2.3176  Ang. Really at:   8.9486 13.3785 -4.3962
+   46 C                     2.3291  Ang. Really at:   8.9221  8.9385  0.0325
+   61 C                     2.3419  Ang. Really at:  13.3123 13.4015 -0.0567
+   41 C                     2.3568  Ang. Really at:   8.8172 13.2991  4.4358
+   29 C                     2.3775  Ang. Really at:   4.3950 13.3985 -0.0465
+   48 C                     2.3948  Ang. Really at:   8.9574 17.8645  0.0113
+Neighbors of:    46 C at:   8.9221  8.9385  0.0325
+   34 Zr                    2.3203  Ang. Really at:   8.9307  8.9303 -4.3522
+   45 Zr                    2.3291  Ang. Really at:   8.8874 13.3395 -0.0172
+   42 Zr                    2.3359  Ang. Really at:   8.9892  8.9115  4.4462
+   62 Zr                    2.3517  Ang. Really at:  13.3641  8.8052  0.0093
+   30 Zr                    2.3783  Ang. Really at:   4.4281  8.9436  0.0970
+   47 Zr                    2.3821  Ang. Really at:   8.8597  4.4387  0.1378
+Neighbors of:    47 Zr at:   8.8597  4.4387  0.1378
+   43 C                     2.1751  Ang. Really at:   8.8261  4.4198  4.2480
+   48 C                     2.3132  Ang. Really at:   8.9574  0.0703  0.0113
+   31 C                     2.3593  Ang. Really at:   4.4033  4.5257  0.0300
+   63 C                     2.3662  Ang. Really at:  13.3299  4.4532  0.0330
+   46 C                     2.3821  Ang. Really at:   8.9221  8.9385  0.0325
+   35 C                     2.5093  Ang. Really at:   8.9804  4.4866 -4.6024
+Neighbors of:    48 C at:   8.9574  0.0703  0.0113
+   64 Zr                    2.2185  Ang. Really at:  13.1456 -0.0955  0.0975
+   47 Zr                    2.3132  Ang. Really at:   8.8597  4.4387  0.1378
+   36 Zr                    2.3698  Ang. Really at:   8.8092 -0.0664 -4.4624
+   44 Zr                    2.3850  Ang. Really at:   8.9058  0.0282  4.5179
+   45 Zr                    2.3948  Ang. Really at:   8.8874 -4.4547 -0.0172
+   32 Zr                    2.4285  Ang. Really at:   4.3683  0.0718  0.0077
+Neighbors of:    49 Zr at:  13.2693 13.2619 13.2752
+   33 C                     2.2882  Ang. Really at:   8.9486 13.3785 13.3980
+   50 C                     2.2987  Ang. Really at:  13.3725  8.9193 13.3159
+   53 C                     2.3343  Ang. Really at:  13.2722 13.2976  8.8642
+   61 C                     2.3626  Ang. Really at:  13.3123 13.4015 17.7375
+    2 C                     2.3698  Ang. Really at:  17.7451 13.3350 13.4066
+   52 C                     2.3852  Ang. Really at:  13.3508 17.7686 13.2934
+Neighbors of:    50 C at:  13.3725  8.9193 13.3159
+   49 Zr                    2.2987  Ang. Really at:  13.2693 13.2619 13.2752
+   54 Zr                    2.3198  Ang. Really at:  13.3557  8.8878  8.9323
+   34 Zr                    2.3514  Ang. Really at:   8.9307  8.9303 13.4420
+    3 Zr                    2.3541  Ang. Really at:  17.8197  8.8319 13.2549
+   62 Zr                    2.3755  Ang. Really at:  13.3641  8.8052 17.8035
+   51 Zr                    2.4100  Ang. Really at:  13.2210  4.3680 13.3810
+Neighbors of:    51 Zr at:  13.2210  4.3680 13.3810
+   35 C                     2.2471  Ang. Really at:   8.9804  4.4866 13.1919
+   52 C                     2.3265  Ang. Really at:  13.3508 -0.0256 13.2934
+   63 C                     2.3540  Ang. Really at:  13.3299  4.4532 17.8273
+   50 C                     2.4100  Ang. Really at:  13.3725  8.9193 13.3159
+   55 C                     2.4117  Ang. Really at:  13.3256  4.4187  8.8249
+    4 C                     2.4996  Ang. Really at:  17.9437  4.3941 13.2973
+Neighbors of:    52 C at:  13.3508 -0.0256 13.2934
+    5 Zr                    2.1926  Ang. Really at:  17.4878 -0.2053 13.1480
+   51 Zr                    2.3265  Ang. Really at:  13.2210  4.3680 13.3810
+   56 Zr                    2.3399  Ang. Really at:  13.2589  0.0125  8.8727
+   49 Zr                    2.3852  Ang. Really at:  13.2693 -4.5323 13.2752
+   36 Zr                    2.4035  Ang. Really at:   8.8092 -0.0664 13.3318
+   64 Zr                    2.4360  Ang. Really at:  13.1456 -0.0955 17.8918
+Neighbors of:    53 C at:  13.2722 13.2976  8.8642
+   54 Zr                    2.3342  Ang. Really at:  13.3557  8.8878  8.9323
+   49 Zr                    2.3343  Ang. Really at:  13.2693 13.2619 13.2752
+   37 Zr                    2.3361  Ang. Really at:   8.8613 13.4591  8.9488
+   57 Zr                    2.3765  Ang. Really at:  13.3548 13.3864  4.3750
+   56 Zr                    2.3861  Ang. Really at:  13.2589 17.8067  8.8727
+    6 Zr                    2.3986  Ang. Really at:  17.8031 13.4226  8.8670
+    9 C                     3.1462  Ang. Really at:  17.6621 17.3071  8.8290
+Neighbors of:    54 Zr at:  13.3557  8.8878  8.9323
+    7 C                     2.2625  Ang. Really at:  17.6308  8.8397  8.9714
+   50 C                     2.3198  Ang. Really at:  13.3725  8.9193 13.3159
+   53 C                     2.3342  Ang. Really at:  13.2722 13.2976  8.8642
+   55 C                     2.3657  Ang. Really at:  13.3256  4.4187  8.8249
+   38 C                     2.4004  Ang. Really at:   8.8199  8.8414  8.9355
+   58 C                     2.4132  Ang. Really at:  13.2066  8.9739  4.3752
+Neighbors of:    55 C at:  13.3256  4.4187  8.8249
+   59 Zr                    2.2959  Ang. Really at:  13.3312  4.4089  4.4863
+   56 Zr                    2.3321  Ang. Really at:  13.2589  0.0125  8.8727
+   39 Zr                    2.3400  Ang. Really at:   8.9073  4.5172  8.9737
+   54 Zr                    2.3657  Ang. Really at:  13.3557  8.8878  8.9323
+    8 Zr                    2.3870  Ang. Really at:  17.8222  4.6702  9.0759
+   51 Zr                    2.4117  Ang. Really at:  13.2210  4.3680 13.3810
+Neighbors of:    56 Zr at:  13.2589  0.0125  8.8727
+   40 C                     2.3256  Ang. Really at:   8.8660 -0.1124  8.8621
+   55 C                     2.3321  Ang. Really at:  13.3256  4.4187  8.8249
+   52 C                     2.3399  Ang. Really at:  13.3508 -0.0256 13.2934
+    9 C                     2.3451  Ang. Really at:  17.6621 -0.4871  8.8290
+   53 C                     2.3861  Ang. Really at:  13.2722 -4.4966  8.8642
+   60 C                     2.3869  Ang. Really at:  13.3980  0.0290  4.3643
+Neighbors of:    57 Zr at:  13.3548 13.3864  4.3750
+   10 C                     2.3175  Ang. Really at:  17.7294 13.2900  4.5548
+   58 C                     2.3363  Ang. Really at:  13.2066  8.9739  4.3752
+   61 C                     2.3452  Ang. Really at:  13.3123 13.4015 -0.0567
+   60 C                     2.3479  Ang. Really at:  13.3980 17.8232  4.3643
+   53 C                     2.3765  Ang. Really at:  13.2722 13.2976  8.8642
+   41 C                     2.4019  Ang. Really at:   8.8172 13.2991  4.4358
+Neighbors of:    58 C at:  13.2066  8.9739  4.3752
+   42 Zr                    2.2323  Ang. Really at:   8.9892  8.9115  4.4462
+   62 Zr                    2.3135  Ang. Really at:  13.3641  8.8052  0.0093
+   57 Zr                    2.3363  Ang. Really at:  13.3548 13.3864  4.3750
+   54 Zr                    2.4132  Ang. Really at:  13.3557  8.8878  8.9323
+   59 Zr                    2.4173  Ang. Really at:  13.3312  4.4089  4.4863
+   11 Zr                    2.4571  Ang. Really at:  17.8496  8.9506  4.4204
+Neighbors of:    59 Zr at:  13.3312  4.4089  4.4863
+   55 C                     2.2959  Ang. Really at:  13.3256  4.4187  8.8249
+   60 C                     2.3190  Ang. Really at:  13.3980  0.0290  4.3643
+   63 C                     2.3567  Ang. Really at:  13.3299  4.4532  0.0330
+   12 C                     2.3673  Ang. Really at:  17.8046  4.3986  4.5000
+   43 C                     2.3873  Ang. Really at:   8.8261  4.4198  4.2480
+   58 C                     2.4173  Ang. Really at:  13.2066  8.9739  4.3752
+Neighbors of:    60 C at:  13.3980  0.0290  4.3643
+   64 Zr                    2.2628  Ang. Really at:  13.1456 -0.0955  0.0975
+   13 Zr                    2.2975  Ang. Really at:  17.7395  0.0615  4.3347
+   59 Zr                    2.3190  Ang. Really at:  13.3312  4.4089  4.4863
+   57 Zr                    2.3479  Ang. Really at:  13.3548 -4.4078  4.3750
+   44 Zr                    2.3786  Ang. Really at:   8.9058  0.0282  4.5179
+   56 Zr                    2.3869  Ang. Really at:  13.2589  0.0125  8.8727
+Neighbors of:    61 C at:  13.3123 13.4015 -0.0567
+   64 Zr                    2.2772  Ang. Really at:  13.1456 17.6987  0.0975
+   14 Zr                    2.2863  Ang. Really at:  17.6323 13.3592 -0.1111
+   45 Zr                    2.3419  Ang. Really at:   8.8874 13.3395 -0.0172
+   57 Zr                    2.3452  Ang. Really at:  13.3548 13.3864  4.3750
+   49 Zr                    2.3626  Ang. Really at:  13.2693 13.2619 -4.5190
+   62 Zr                    2.4327  Ang. Really at:  13.3641  8.8052  0.0093
+Neighbors of:    62 Zr at:  13.3641  8.8052  0.0093
+   63 C                     2.3031  Ang. Really at:  13.3299  4.4532  0.0330
+   58 C                     2.3135  Ang. Really at:  13.2066  8.9739  4.3752
+   46 C                     2.3517  Ang. Really at:   8.9221  8.9385  0.0325
+   15 C                     2.3576  Ang. Really at:  17.8188  8.8738 -0.0060
+   50 C                     2.3755  Ang. Really at:  13.3725  8.9193 -4.4783
+   61 C                     2.4327  Ang. Really at:  13.3123 13.4015 -0.0567
+Neighbors of:    63 C at:  13.3299  4.4532  0.0330
+   62 Zr                    2.3031  Ang. Really at:  13.3641  8.8052  0.0093
+   16 Zr                    2.3043  Ang. Really at:  17.6838  4.4094 -0.0254
+   51 Zr                    2.3540  Ang. Really at:  13.2210  4.3680 -4.4132
+   59 Zr                    2.3567  Ang. Really at:  13.3312  4.4089  4.4863
+   47 Zr                    2.3662  Ang. Really at:   8.8597  4.4387  0.1378
+   64 Zr                    2.4093  Ang. Really at:  13.1456 -0.0955  0.0975
+Neighbors of:    64 Zr at:  13.1456 -0.0955  0.0975
+   48 C                     2.2185  Ang. Really at:   8.9574  0.0703  0.0113
+   60 C                     2.2628  Ang. Really at:  13.3980  0.0290  4.3643
+   61 C                     2.2772  Ang. Really at:  13.3123 -4.3927 -0.0567
+   63 C                     2.4093  Ang. Really at:  13.3299  4.4532  0.0330
+   52 C                     2.4360  Ang. Really at:  13.3508 -0.0256 -4.5008
+    1 C                     2.5378  Ang. Really at:  17.9381 -0.0082 -0.0535

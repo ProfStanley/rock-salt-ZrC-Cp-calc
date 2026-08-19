@@ -1,0 +1,19 @@
+
+-----------------------------------------------------------------
+          Welcome to the Stampede2 Supercomputer                 
+-----------------------------------------------------------------
+
+No reservation for this job
+--> Verifying valid submit host (login4)...OK
+--> Verifying valid jobname...OK
+--> Enforcing max jobs per user...OK
+--> Verifying availability of your home dir (/home1/06209/tg855087)...OK
+--> Verifying availability of your work2 dir (/work2/06209/tg855087/stampede2)...OK
+--> Verifying availability of your scratch dir (/scratch/06209/tg855087)...OK
+--> Verifying valid ssh keys...OK
+--> Verifying access to desired queue (normal)...OK
+--> Verifying job request is within current queue limits...OK
+--> Checking available allocation (TG-PHY210117)...OK
+--> Verifying that quota for filesystem /home1/06209/tg855087 is at 15.60% allocated...OK
+--> Verifying that quota for filesystem /work2/06209/tg855087/stampede2 is at 17.30% allocated...OK
+Submitted batch job 9441597

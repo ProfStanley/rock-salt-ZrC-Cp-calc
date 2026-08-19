@@ -1,0 +1,69 @@
+#!/bin/bash
+
+#input ./mkpreprand run# seed node#  (# of processors is always 1)
+
+#make and compile prepcell with the proper seed
+sed 's/time(0)/'$2'/' prepcell_ge216_const_Amp.cpp > temp.cpp
+g++ -o a.run temp.cpp
+mv a.run ./$1/
+mv temp.cpp ./$1/
+
+#make run.sh file
+
+echo "#!/bin/bash
+#!/bin/bash
+#----------------------------------------------------
+# Sample Slurm job script
+#   for TACC Stampede2 SKX nodes
+#
+#   *** Serial Job on SKX Normal Queue ***
+# 
+# Last revised: 20 Oct 2017
+#
+# Notes:
+#
+#   -- Copy/edit this script as desired.  Launch by executing
+#      "sbatch skx.serial.slurm" on a Stampede2 login node.
+#
+#   -- Serial codes run on a single node (upper case N = 1).
+#        A serial code ignores the value of lower case n,
+#        but slurm needs a plausible value to schedule the job.
+#
+#   -- For a good way to run multiple serial executables at the
+#        same time, execute "module load launcher" followed
+#        by "module help launcher".
+
+#----------------------------------------------------
+
+#SBATCH -J myjob           # Job name
+#SBATCH -o myjob.o%j       # Name of stdout output file
+#SBATCH -e myjob.e%j       # Name of stderr error file
+#SBATCH -p skx-normal      # Queue (partition) name
+#SBATCH -N 1               # Total # of nodes (must be 1 for serial)
+#SBATCH -n 1               # Total # of mpi tasks (should be 1 for serial)
+#SBATCH -t 00:30:00        # Run time (hh:mm:ss)
+#SBATCH --mail-user=username@tacc.utexas.edu
+#SBATCH --mail-type=all    # Send email at begin and end of job
+#removed project name because I only have one
+
+# Other commands must follow all #SBATCH directives...
+
+module list
+pwd
+date
+
+# Launch serial code...
+
+./a.run ge216dz 6.4 1500         # Do not use ibrun or any other MPI launcher
+
+# ---------------------------------------------------
+
+
+">run.sh
+
+#copy the run.sh file to the proper dir, cd to dir and run serial job
+cp run.sh ./$1
+
+cd ./$1/
+sbatch run.sh
+cd ..

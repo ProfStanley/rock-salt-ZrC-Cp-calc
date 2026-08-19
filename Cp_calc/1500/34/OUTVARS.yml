@@ -1,0 +1,44 @@
+%YAML 1.2
+---
+
+siesta:
+  version: "4.1.5"
+  arch: "x86_64-unknown-linux-gnu--Intel"
+  compiler: "ifort (IFORT) 18.0.2 20180210"
+  fflags: "mpif90 -O3 -xCORE-AVX2 -axMIC-AVX512,CORE-AVX512 -fp-model precise -mp1 -aliggn array64byte -ip"
+  fppflags: "-DMPI -DGRID_DP -DPHI_GRID_SP -DFC_HAVE_FLUSH -DFC_HAVE_ABORT -DSIESTA__DIAG__2STAGE"
+  libs: "libsiestaLAPACK.a -L/opt/intel/compilers_and_libraries_2018.2.199/linux/mkl/llib/intel64 -lmkl_scalapack_lp64 -lmkl_intel_lp64 -lmkl_sequential -lmkl_core -lmkl_blacs_intelmpi_lp64 -lpthread -lm -Wl,-rpath,/opt/intel/compilers_and_libraries_2018.2.199/linux/mkl/lib/intel64  -lpthread -lm"
+  build: "mpi"
+  openmp: "no"
+  gemm3m: "no"
+  netcdf: "no"
+  netcdf4: "no"
+  netcdf4_mpi: "no"
+  metis: "no"
+  chess: "no"
+  elpa: "no"
+  flook: "no"
+  pexsi: "no"
+
+energies:
+  Ebs:          -0.84491188E+03
+  Eions:           0.44141019E+04
+  Ena:           0.44712839E+03
+  Ekin:           0.11754769E+04
+  Enl:          -0.12245571E+03
+  Eso:           0.00000000E+00
+  Edftu:           0.00000000E+00
+  DEna:           0.31123964E+02
+  DUscf:           0.17205295E+01
+  DUext:           0.00000000E+00
+  Exc:          -0.50893786E+03
+  Ecorrec:           0.00000000E+00
+  Emadel:           0.00000000E+00
+  Emeta:           0.00000000E+00
+  Emolmec:           0.00000000E+00
+  Ekinion:           0.00000000E+00
+  Eharris:          -0.33900456E+04
+  Etot:          -0.33900456E+04
+  FreeEng:          -0.33900470E+04
+
+...

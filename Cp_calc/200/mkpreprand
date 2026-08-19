@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#input ./mkpreprand run# seed node#  (# of processors is always 1)
+
+#make and compile prepcell with the proper seed
+sed 's/time(0)/'$2'/' prepcell_ZrC64_const_Amp.cpp > temp.cpp
+g++ -o a.run temp.cpp
+mv a.run ./$1/
+mv temp.cpp ./$1/
+
+cd ./$1/
+./a.run ZrC64 200 200
+cd ..

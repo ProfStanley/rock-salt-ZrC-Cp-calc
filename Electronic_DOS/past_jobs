@@ -1,0 +1,14 @@
+
+-----------------------------------------------------------------
+          Welcome to the Stampede3 Supercomputer                 
+-----------------------------------------------------------------
+
+No reservation for this job
+--> Verifying valid submit host (login1)...OK
+--> Verifying valid jobname...OK
+--> Verifying valid ssh keys...OK
+--> Verifying access to desired queue (skx)...OK
+--> Checking available allocation (TG-PHY210056)...OK
+--> Quotas are not currently enabled for filesystem /home1/06209/tg855087...OK
+--> Verifying that quota for filesystem /work2/06209/tg855087/stampede3 is at 84.12% allocated...OK
+Submitted batch job 3407014

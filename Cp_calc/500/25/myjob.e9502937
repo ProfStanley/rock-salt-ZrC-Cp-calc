@@ -1,0 +1,12 @@
+
+Currently Loaded Modules:
+  1) intel/18.0.2      4) git/2.24.1       7) cmake/3.20.2  10) siesta/4.1.5
+  2) libfabric/1.7.0   5) autotools/1.1    8) xalt/2.10.2
+  3) impi/18.0.2       6) python2/2.7.15   9) TACC
+
+ 
+
+Gamma-point calculation with interaction between periodic images
+Some features might not work optimally:
+e.g. DM initialization from atomic data
+Job completed

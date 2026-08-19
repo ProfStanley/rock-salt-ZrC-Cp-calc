@@ -1,0 +1,9 @@
+To run the 50 micro states for each temperature do the following: (temperatures 500,1000,1500 already have the data there so you can compare it to your calculations 200K does not and is just empty)::
+
+1) ./setup.sh.   This will create 50 directories for the temperature you want and will copy all the necessary files in each directory.
+
+2) change the mkpreprand file to be the proper temperature. Since prepcell wants input like this: ./runfilename SystemName Tcold Thot, which is shown in the file, you need to change Tcold and Thot so that they will be on average 200K.  For 500K, for example, this would be 157K = Tcold and 500K = Thot for a supercell where the hot block is 8 atoms and the cold block is the remainder of the 64 atom cell (cold block of 56 atoms).  Using 3NKbT = Kinetic Energy and solving for T to get any blocks temperature.
+
+3) ./rundir.sh. : this will go from directory to directory, replace the time(0) with a random seed in prepcell, compile prepcell, then save the executable as a.run.  It then runs a.run as specified in mkpreprand, and this should create an XV file that SIESTA can read.
+
+4) Go through each directory and run/submit SIESTA to your cluster of choice.  This should be done with a 0step CG, which seems to be a little bit faster than a single MD and should ensure that none of the atoms move. 

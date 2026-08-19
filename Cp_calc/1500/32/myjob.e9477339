@@ -1,0 +1,26 @@
+
+Currently Loaded Modules:
+  1) intel/18.0.2      4) git/2.24.1       7) cmake/3.20.2  10) siesta/4.1.5
+  2) libfabric/1.7.0   5) autotools/1.1    8) xalt/2.10.2
+  3) impi/18.0.2       6) python2/2.7.15   9) TACC
+
+ 
+
+Gamma-point calculation with interaction between periodic images
+Some features might not work optimally:
+e.g. DM initialization from atomic data
+slurmstepd: error: *** JOB 9477339 ON c506-092 CANCELLED AT 2022-04-16T14:50:01 DUE TO TIME LIMIT ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+siesta             00000000020F558E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AACCCCB5630  Unknown               Unknown  Unknown
+siesta             0000000000492408  Unknown               Unknown  Unknown
+siesta             00000000004EC18C  Unknown               Unknown  Unknown
+siesta             000000000061EF90  Unknown               Unknown  Unknown
+siesta             0000000000E64C7D  Unknown               Unknown  Unknown
+siesta             00000000008D59CF  Unknown               Unknown  Unknown
+siesta             000000000099AA41  Unknown               Unknown  Unknown
+siesta             00000000019AC9FE  Unknown               Unknown  Unknown
+siesta             000000000040BD7E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AACCE620555  __libc_start_main     Unknown  Unknown
+siesta             000000000040BC69  Unknown               Unknown  Unknown

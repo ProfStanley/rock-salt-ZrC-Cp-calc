@@ -1,0 +1,6 @@
+Gamma-point calculation with interaction between periodic images
+Some features might not work optimally:
+e.g. DM initialization from atomic data
+Job completed
+rm: cannot remove ‘/work2/06209/tg855087/stampede2/ZrC64/optimize_LC/pao_002/minus_1percent/temp.out’: No such file or directory
+rm: cannot remove ‘/work2/06209/tg855087/stampede2/ZrC64/optimize_LC/pao_002/minus_1percent/temp.ANI’: No such file or directory
